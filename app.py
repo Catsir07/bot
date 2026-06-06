@@ -98,4 +98,4 @@ async def dmstatus(ctx):
     
     await ctx.send("Final status reached.")
 
-bot.run('MTUwOTUwMjE2NTU5NTU4NjY3MQ.G1EFTI.f0zWxMQ4Oy771OKlIxQktznGuc4OAr5e45aLkA')
+bot.run('MTUwOTUwMjE2NTU5NTU4NjY3MQ.G0d1pN.gKLuS1VUIay2gbCq7Jcx0MapL0FBoMyT8PwpLY')
